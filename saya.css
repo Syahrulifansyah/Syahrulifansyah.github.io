@@ -1,0 +1,10 @@
+p{font-family: sans-serif;line-height: 1.5em;}
+p{color: grey}
+img {
+  border-radius: 50%;
+}
+body {
+  background-image: url("ja.jpg");
+}
+h1 {color: white;} h1 {background-color: black;} h1 {text-align: center;} h1{font-size: 60px}
+h2{color: white;} h2{background-color: black;} h2{text-align: center;} h2{font-size: 45px}
